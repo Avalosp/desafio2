@@ -1,0 +1,63 @@
+.header{
+    height: 20em;
+    background-image: url("../imgs/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.header div{
+    height: 20em;
+    background-color: black;
+    background-position: center;
+
+}
+.header h1{
+    text-align: right;
+    margin: 0px;
+    font-weight: 400;
+}
+
+.header mail{
+    text-align: right;
+    margin: 0px;
+    font-weight: 400;
+}
+
+
+.header p{
+    text-align: right;
+    font-weight: 500;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(17, 194, 194);
+}
+
+.header{
+    height: 22em;
+    padding: 2em;
+    font-size: 1em;
+    background-image: url("../imgs/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+
+.products{
+    width: 80%;
+    margin: auto;
+    
+}
+
+.products td{
+    width: 40%;
+    padding: 2em;
+}
+
+.products img{
+    width: 100%;
+    border: solid 1px #ddd;
+}
